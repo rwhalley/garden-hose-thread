@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ThreadType>
-  <Name>Garden Hose Thread</Name>
-  <CustomName>Definitely Not Garden Hose Thread (GHT)</CustomName>
+  <Name>3DP Garden Hose Thread (GHT)</Name>
+  <CustomName> 3DP Garden Hose Thread (GHT)</CustomName>
   <Unit>in</Unit>
-  <!-- The angle is estimated as 60° for this example -->
   <Angle>60</Angle>
   <SortOrder>1</SortOrder>
   <ThreadSize>
@@ -14,17 +13,16 @@
       <Thread>
         <Gender>external</Gender>
         <Class>A</Class>
-        <MajorDia>1.0625</MajorDia>
-        <PitchDia>1.019</PitchDia>
-        <MinorDia>0.9755</MinorDia>
+        <MajorDia>1.0475</MajorDia>
+        <PitchDia>0.9910</PitchDia>
+        <MinorDia>0.9345</MinorDia>
       </Thread>
       <Thread>
         <Gender>internal</Gender>
         <Class>A</Class>
-        <MajorDia>1.0650</MajorDia>
-        <PitchDia>1.0215</PitchDia>
-        <MinorDia>0.978</MinorDia>
-        <TapDrill>0.978</TapDrill>
+        <MajorDia>1.0825</MajorDia>
+        <PitchDia>1.0260</PitchDia>
+        <MinorDia>0.9695</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
